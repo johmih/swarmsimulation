@@ -11,7 +11,7 @@ Dazu wurden die 3 Regeln Craig Reynolds nachimplementiert:
 - Bewege dich weg, sobald dir jemand zu nahe kommt
 - Bewege dich in etwa in dieselbe Richtung wie deine Nachbarn
 
-Einen ersten Eindruck zur Umsetzung der genannten Bewegungsregeln.
+Einen ersten Eindruck zur Umsetzung der genannten Bewegungsregeln. Desto mehr ein Agent mehrere Agenten zu seiner Bewegung einbezieht, ändert er seine Farbe von blau zu rot.
 ![Screenshot](doc/schwarm.png)
 
 
