@@ -11,7 +11,7 @@ Dazu wurden die 3 Regeln Craig Reynolds nachimplementiert:
 - Bewege dich weg, sobald dir jemand zu nahe kommt
 - Bewege dich in etwa in dieselbe Richtung wie deine Nachbarn
 
+Einen ersten Eindruck zur Umsetzung der genannten Bewegungsregeln.
 ![Screenshot](doc/schwarm.png)
-Einen ersten Eindruck zur der simplen Umsetzung der genannten Bewegungsregeln.
 
 ![Screenshot2](doc/predator_prey_simulation.png)
