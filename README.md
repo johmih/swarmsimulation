@@ -16,4 +16,5 @@ Einen ersten Eindruck zur Umsetzung der genannten Bewegungsregeln. Desto mehr ei
 ![Screenshot](doc/schwarm.png)
 
 Nach der Umsetzung der einzelnen Bewegungsformen wurden, für eine Räuber-Beute-Simulation unterschiedliche Agententypen eingeführt.
+
 ![Screenshot2](doc/predator_prey_simulation.png)
