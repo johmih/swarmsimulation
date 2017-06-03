@@ -14,4 +14,5 @@ Dazu wurden die 3 Regeln Craig Reynolds nachimplementiert:
 Einen ersten Eindruck zur Umsetzung der genannten Bewegungsregeln.
 ![Screenshot](doc/schwarm.png)
 
+
 ![Screenshot2](doc/predator_prey_simulation.png)
